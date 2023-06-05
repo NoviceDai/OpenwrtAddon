@@ -1,0 +1,3 @@
+[submodule "luci-app-wechatpush"]
+	path = luci-app-wechatpush
+	url = git@github.com:tty228/luci-app-wechatpush.git
