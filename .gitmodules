@@ -1,3 +1,6 @@
 [submodule "luci-app-wechatpush"]
 	path = luci-app-wechatpush
 	url = https://github.com/tty228/luci-app-wechatpush.git
+[submodule "luci-app-torbp"]
+	path = luci-app-torbp
+	url = git@github.com:zerolabnet/luci-app-torbp.git
