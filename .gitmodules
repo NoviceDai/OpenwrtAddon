@@ -4,3 +4,6 @@
 [submodule "luci-app-torbp"]
 	path = luci-app-torbp
 	url = git@github.com:zerolabnet/luci-app-torbp.git
+[submodule "tor"]
+	path = tor
+	url = https://github.com/torproject/tor.git
