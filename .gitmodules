@@ -1,9 +1,6 @@
 [submodule "luci-app-wechatpush"]
 	path = luci-app-wechatpush
 	url = https://github.com/tty228/luci-app-wechatpush.git
-[submodule "luci-app-torbp"]
-	path = luci-app-torbp
-	url = https://github.com/zerolabnet/luci-app-torbp.git
 [submodule "tor"]
 	path = tor
 	url = https://github.com/torproject/tor.git
