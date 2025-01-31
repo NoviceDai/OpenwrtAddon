@@ -19,3 +19,6 @@
 [submodule "openwrt-passwall-packages"]
 	path = openwrt-passwall-packages
 	url = https://github.com/xiaorouji/openwrt-passwall-packages
+[submodule "helloworld"]
+	path = helloworld
+	url = https://github.com/fw876/helloworld
