@@ -7,3 +7,6 @@
 [submodule "luci-app-torbp"]
 	path = luci-app-torbp
 	url = https://github.com/NoviceDai/luci-app-torbp.git
+[submodule "snowflake"]
+	path = snowflake
+	url = https://salsa.debian.org/pkg-privacy-team/snowflake.git
