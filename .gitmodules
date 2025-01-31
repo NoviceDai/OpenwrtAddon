@@ -13,3 +13,9 @@
 [submodule "luci-app-wolplus"]
 	path = luci-app-wolplus
 	url = https://github.com/animegasan/luci-app-wolplus
+[submodule "openwrt-passwall"]
+	path = openwrt-passwall
+	url = https://github.com/xiaorouji/openwrt-passwall
+[submodule "openwrt-passwall-packages"]
+	path = openwrt-passwall-packages
+	url = https://github.com/xiaorouji/openwrt-passwall-packages
