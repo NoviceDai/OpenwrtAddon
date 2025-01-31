@@ -10,3 +10,6 @@
 [submodule "snowflake"]
 	path = snowflake
 	url = https://salsa.debian.org/pkg-privacy-team/snowflake.git
+[submodule "luci-app-wolplus"]
+	path = luci-app-wolplus
+	url = https://github.com/animegasan/luci-app-wolplus
