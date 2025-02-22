@@ -1,27 +1,6 @@
 [submodule "luci-app-wechatpush"]
 	path = luci-app-wechatpush
 	url = https://github.com/tty228/luci-app-wechatpush
-[submodule "tor"]
-	path = tor
-	url = https://github.com/torproject/tor.git
-[submodule "luci-app-torbp"]
-	path = luci-app-torbp
-	url = https://github.com/NoviceDai/luci-app-torbp.git
-[submodule "snowflake"]
-	path = snowflake
-	url = https://salsa.debian.org/pkg-privacy-team/snowflake.git
-[submodule "luci-app-wolplus"]
-	path = luci-app-wolplus
-	url = https://github.com/animegasan/luci-app-wolplus
-[submodule "openwrt-passwall"]
-	path = openwrt-passwall
-	url = https://github.com/xiaorouji/openwrt-passwall
-[submodule "openwrt-passwall-packages"]
-	path = openwrt-passwall-packages
-	url = https://github.com/xiaorouji/openwrt-passwall-packages
-[submodule "helloworld"]
-	path = helloworld
-	url = https://github.com/fw876/helloworld
 [submodule "openwrt-chinadns-ng"]
 	path = openwrt-chinadns-ng
 	url = https://github.com/pexcn/openwrt-chinadns-ng.git
