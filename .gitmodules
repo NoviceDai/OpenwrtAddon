@@ -22,3 +22,6 @@
 [submodule "helloworld"]
 	path = helloworld
 	url = https://github.com/fw876/helloworld
+[submodule "openwrt-chinadns-ng"]
+	path = openwrt-chinadns-ng
+	url = https://github.com/pexcn/openwrt-chinadns-ng.git
