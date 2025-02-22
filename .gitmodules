@@ -1,6 +1,3 @@
-[submodule "luci-app-wechatpush"]
-	path = luci-app-wechatpush
-	url = https://github.com/tty228/luci-app-wechatpush
 [submodule "luci-app-chinadnsng"]
 	path = luci-app-chinadnsng
 	url = https://github.com/izilzty/luci-app-chinadns-ng
