@@ -1,0 +1,4 @@
+[submodule "luci-app-chinadns-ng"]
+	path = luci-app-chinadns-ng
+	url = https://github.com/pexcn/openwrt-chinadns-ng.git
+	branch = luci
